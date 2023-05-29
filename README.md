@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-install touchDesigner lauchn both toe file
+install touchDesigner launch both toe file
 
 ```
 
